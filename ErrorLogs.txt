@@ -1,0 +1,76 @@
+2021-02-16 16:57:53.445666+0900 corehaptics[19641:987903] Built from '2019.4/release' branch, Version '2019.4.20f1 (6dd1c08eedfa)', Build type 'Release', Scripting Backend 'il2cpp'
+2021-02-16 16:57:53.446276+0900 corehaptics[19641:987903] MemoryManager: Using 'Default' Allocator.
+-> applicationDidFinishLaunching()
+-> applicationDidBecomeActive()
+GfxDevice: creating device client; threaded=1
+Initializing Metal device caps: Apple A13 GPU
+Initialize engine version: 2019.4.20f1 (6dd1c08eedfa)
+2021-02-16 16:57:54.241037+0900 corehaptics[19641:988140]  - <Google>[I-ACS025031] AdMob App ID changed. Original, new: (nil), ca-app-pub-3940256099942544~3347511713
+2021-02-16 16:57:54.300027+0900 corehaptics[19641:987903] Unbalanced calls to begin/end appearance transitions for <UnityViewControllerStoryboard: 0x100f60770>.
+2021-02-16 16:57:54.306859+0900 corehaptics[19641:988141]  - <Google>[I-ACS023007] Analytics v.70500000 started
+2021-02-16 16:57:54.307449+0900 corehaptics[19641:988141]  - <Google>[I-ACS023008] To enable debug logging set the following application argument: -APMAnalyticsDebugEnabled (see http://goo.gl/RfcP7r)
+2021-02-16 16:57:54.318345+0900 corehaptics[19641:988216]  - <Google>[I-ACS800023] No pending snapshot to activate. SDK name: app_measurement
+2021-02-16 16:57:54.330839+0900 corehaptics[19641:988216]  - <Google>[I-ACS023012] Analytics collection enabled
+UnloadTime: 0.963917 ms
+2021-02-16 16:57:56.495207+0900 corehaptics[19641:987903] <Google> To get test ads on this device, set: GADMobileAds.sharedInstance.requestConfiguration.testDeviceIdentifiers = @[ @"e392c367b8b688980e6489782c1b49ed" ];
+2021-02-16 16:57:56.559161+0900 corehaptics[19641:987903] WF: === Starting WebFilter logging for process corehaptics
+2021-02-16 16:57:56.626069+0900 corehaptics[19641:987903] WF: _userSettingsForUser mobile: {
+    filterBlacklist =     (
+    );
+    filterWhitelist =     (
+    );
+    restrictWeb = 1;
+    useContentFilter = 0;
+    useContentFilterOverrides = 0;
+    whitelistEnabled = 0;
+}
+2021-02-16 16:57:56.626189+0900 corehaptics[19641:987903] WF: _WebFilterIsActive returning: NO
+2021-02-16 16:57:57.527404+0900 corehaptics[19641:987903] WF: _userSettingsForUser mobile: {
+    filterBlacklist =     (
+    );
+    filterWhitelist =     (
+    );
+    restrictWeb = 1;
+    useContentFilter = 0;
+    useContentFilterOverrides = 0;
+    whitelistEnabled = 0;
+}
+2021-02-16 16:57:57.527512+0900 corehaptics[19641:987903] WF: _WebFilterIsActive returning: NO
+2021-02-16 16:57:57.694561+0900 corehaptics[19641:987903] WF: _userSettingsForUser mobile: {
+    filterBlacklist =     (
+    );
+    filterWhitelist =     (
+    );
+    restrictWeb = 1;
+    useContentFilter = 0;
+    useContentFilterOverrides = 0;
+    whitelistEnabled = 0;
+}
+2021-02-16 16:57:57.694598+0900 corehaptics[19641:987903] WF: _WebFilterIsActive returning: NO
+2021-02-16 16:57:57.701851+0900 corehaptics[19641:987903] WF: _userSettingsForUser mobile: {
+    filterBlacklist =     (
+    );
+    filterWhitelist =     (
+    );
+    restrictWeb = 1;
+    useContentFilter = 0;
+    useContentFilterOverrides = 0;
+    whitelistEnabled = 0;
+}
+2021-02-16 16:57:57.701890+0900 corehaptics[19641:987903] WF: _WebFilterIsActive returning: NO
+2021-02-16 16:57:58.086037+0900 corehaptics[19641:988141] [tcp] tcp_input [C3.1:3] flags=[R.] seq=1884376480, ack=3730510365, win=268 state=FIN_WAIT_2 rcv_nxt=1884376480, snd_una=3730510365
+2021-02-16 16:58:07.511378+0900 corehaptics[19641:988253] [avas]     AVAudioSession_iOS.mm:1149  Deactivating an audio session that has running I/O. All I/O should be stopped or paused prior to deactivating the audio session.
+2021-02-16 16:58:08.700578+0900 corehaptics[19641:987903] WF: _userSettingsForUser mobile: {
+    filterBlacklist =     (
+    );
+    filterWhitelist =     (
+    );
+    restrictWeb = 1;
+    useContentFilter = 0;
+    useContentFilterOverrides = 0;
+    whitelistEnabled = 0;
+}
+2021-02-16 16:58:08.700655+0900 corehaptics[19641:987903] WF: _WebFilterIsActive returning: NO
+-> applicationWillResignActive()
+-> applicationDidEnterBackground()
+2021-02-16 16:58:38.250217+0900 corehaptics[19641:987903] Could not signal service com.apple.WebKit.WebContent: 113: Could not find specified service
