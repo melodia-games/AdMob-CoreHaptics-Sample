@@ -24,3 +24,9 @@ These are all sample IDs.
 If you comment out the following call in VibrationManager.cs#Awake, you will see that the sound is heard.
 
 `VibrationUtil.SetupHapticEngine();`
+
+# Xcode logs
+
+Include AdMob communication logs and I/O error logs.
+
+[logs](./ErrorLogs.txt)
